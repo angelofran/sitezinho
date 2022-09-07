@@ -1,0 +1,65 @@
+body {
+    background-image: url(https://www.bemcolar.com/media/catalog/product/cache/1/image2/400x/9df78eab33525d08d6e5fb8d27136e95/p/a/papel-de-parede-3d-realista-folhagem-costela-de-adao.jpg);
+    overflow: hidden;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.area-login {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.login {
+    background-color: #005f5298;
+    width: 355px;
+    height: 320px;
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+.login form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.login input, Button{
+    margin-top: 10px;
+    padding-left:  10px;
+    background-color: #0a8f8f;
+    border: none;
+    height: 45px;
+    outline: none;
+    border-radius: 10px;
+    color: rgb(236, 236, 236);
+}
+.login img{
+    width: 65px;
+    height: auto;
+}
+input::placeholder{
+    color: rgb(236, 236, 236);
+    font-size: 14px;
+}
+Button {
+    cursor: pointer;
+    color: white;
+    display: block;
+    background-color: #085353;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 5s;
+}
+Button:hover{
+    background-color: #1fcfcf;
+    transition: 1s;
+}
+p{
+    color: black;
+}
+a{
+    color: white;
+    margin-left: 7px;
+}
