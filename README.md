@@ -27,6 +27,3 @@ Para mais infomrções vá para: [MIT](https://choosealicense.com/licenses/mit/)
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de nerdorginal@gmail.com
-
-
-
